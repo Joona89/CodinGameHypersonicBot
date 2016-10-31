@@ -10,3 +10,9 @@ Credits to Two-Cats Blog for the A Star Pathfinding, which I borrowed for this.
 http://blog.two-cats.com/2014/06/a-star-example/
 
 Sorry, Its all in one file, because of the codingame IDE. 
+
+
+you can find this bot fighting in 
+https://www.codingame.com/multiplayer/bot-programming/hypersonic
+
+Since the competition is over, codingame moved it to multiplayer "games". So it is still fighting there. Nickname is Balthar. 
