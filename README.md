@@ -9,4 +9,4 @@ Embrace yourself before looking at the code.
 Credits to Two-Cats Blog for the A Star Pathfinding, which I borrowed for this. 
 http://blog.two-cats.com/2014/06/a-star-example/
 
-**Sorry, Its all in one file, because of the codingame IDE. 
+Sorry, Its all in one file, because of the codingame IDE. 
