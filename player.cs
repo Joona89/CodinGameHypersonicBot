@@ -15,7 +15,6 @@ using System.Drawing;
 --------------------------------------------------------------------------------------------------------
 
 ps. There are propably ton of variables that are pretty much unused by now. 
-ps. ps. This is NO correct way to crete any kind of program. It was merely easier to do, but not better. 
 */
 
 public static class Debugging
