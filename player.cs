@@ -10,24 +10,9 @@ using System.Drawing;
  * Hypersonic (Bomberman clone) challenge (www.codingame.com), with nickname Balthar
  * 
  * 
-    Created By
-    Joona Leskinen
-    Kempele, Pohjois-pohjanmaa
-    Suomi/Finland
-
-    joona.leskinen1989@gmail.com    
-
-
 -------------------------------------------------------------------------------------------
-     Huge thanks to http://blog.two-cats.com/2014/06/a-star-example/ aka. Two-Cats Blog for the Absolutely awesome A* Pathfinding
-            - Whom without I propably would never gotten this working properly. 
-                (Which it even doesnt do, but good enough)
-
-            aprox 1600 lines of code in a single file is not good idea.  :P
+     Huge thanks to http://blog.two-cats.com/2014/06/a-star-example/ aka. Two-Cats Blog for the awesome A* Pathfinding
 --------------------------------------------------------------------------------------------------------
-
-Feel free to use, distribute, delete, comment, laugh, mock and do whatever u want for this code, i dont actually care. It was fun competition. 
-
 
 ps. There are propably ton of variables that are pretty much unused by now. 
 ps. ps. This is NO correct way to crete any kind of program. It was merely easier to do, but not better. 
@@ -111,15 +96,6 @@ public static class GameObjects
         get
         {
             return map.Players.Where(p => p.PlayerID == MyID).FirstOrDefault();
-            //        foreach (PlayerEntity p in map.Players)
-            //      {
-            //        if (p.PlayerID == MyID)
-            //      {
-            //GameSettings.WhenTileBecomesHotZone = //HelperMethods.ClearedInt(p.RangeOfBombs, 2, 5);
-            //        return p;
-            //   }
-            //}
-            //return null;
         }
     }
 
