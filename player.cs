@@ -1446,8 +1446,7 @@ public enum ItemType
 }
 /*
  * -------------------------------------------------------------------------------------------
-// Huge thanks to http://blog.two-cats.com/2014/06/a-star-example/ aka. Two-Cats Blog
-        - Whom without I propably would never gotten this working. 
+// Huge thanks to http://blog.two-cats.com/2014/06/a-star-example/
 * --------------------------------------------------------------------------------------------------------
 */
 public class Node
